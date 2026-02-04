@@ -1,0 +1,6 @@
+praw
+pymongo
+python-dotenv
+transformers
+torch
+pandas
